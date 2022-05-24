@@ -1,5 +1,6 @@
 # Django #
 *.log
+*__pycache__
 *.pot
 *.pyc
 __pycache__
